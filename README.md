@@ -1,27 +1,27 @@
 # HEART DISEASE PREDICTION USING MACHIME LEARNING
-An Android app which uses Realm database to make attendance process simple inside classroom
+This application uses datasets of various patients to make accurate predictions of heart diseases using machine learning.
 <img src="https://1.bp.blogspot.com/-3DB20TFYMtY/X5a53iGR__I/AAAAAAAAKho/Yeq8fcoM3Os4RFa8ml9oNv_ITbbyGk4RgCLcBGAsYHQ/s1280/Untitled-12.jpg">
 
 ### Introduction
 
-This app simplifies the process of taking attendance in classroom. It has a very clean and elegant UI which is teacher-friendly. 
+This app simplifies the process of predicting heart diseases using machine learning. It features a clean and intuitive user interface, making it user-friendly for healthcare professionals.
 
 ### How to install?
-Installing this app is very simple:
-* Open Android Studio
-* Create a new project
-* Just clone this repository and run the project in your android device
+Installing this application is very simple:
+* Python Installed: Ensure you have Python (3.8 or later) installed.
+* Libraries: Install the required Python libraries, such as:
+  numpy, pandas (for data manipulation),scikit-learn (for machine learning algorithms),matplotlib, seaborn (for data visualization)
+* Dataset: Obtain a heart disease dataset, such as the Cleveland Heart Disease dataset from the UCI Machine Learning Repository.
 
 ### How to use the app?
-* Create a Class with Class name, subject name and a theme
-* Add some students to the class
-* Just take a quick Attendance and submit.
-* View the reports that has been taken.
+* Load your dataset into the application.
+* Preprocess the data (if required).
+* Run the prediction algorithm and analyze the results.
 
 ### To be implemented:
-Things to be implemented in the app to make it fully functional:
-* Editing students' profile
-* Changing Attendance status of student while viewing the report.
+Features to be implemented in the app to make it fully functional:
+* Editing patient profiles
+* Updating prediction results or health status while reviewing the report
 
 ### Contribution
 You can directly contribute to the project to improve existing features or adding new features. Pull some requests!
