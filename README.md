@@ -1,6 +1,6 @@
 # HEART DISEASE PREDICTION USING MACHIME LEARNING
 This application uses datasets of various patients to make accurate predictions of heart diseases using machine learning.
-<img src="https://1.bp.blogspot.com/-3DB20TFYMtY/X5a53iGR__I/AAAAAAAAKho/Yeq8fcoM3Os4RFa8ml9oNv_ITbbyGk4RgCLcBGAsYHQ/s1280/Untitled-12.jpg">
+<img src="file:///C:/Users/Sujan%20Prashanth%20P%20S/OneDrive/Desktop/imagefinalhdp.jpg">
 
 ### Introduction
 
